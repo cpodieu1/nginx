@@ -1,1 +1,3 @@
-# nginx
+# maven-project
+
+Simple Maven Project
